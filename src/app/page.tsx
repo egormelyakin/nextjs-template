@@ -1,3 +1,10 @@
+import ThemeSwitcher from "components/theme-switcher";
+
 export default function Home() {
-  return <p className="text-xl">Hello, World</p>;
+  return (
+    <div>
+      <ThemeSwitcher />
+      <p className="text-xl">Hello, World</p>
+    </div>
+  );
 }
