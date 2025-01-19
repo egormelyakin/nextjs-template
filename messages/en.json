@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "hello_world": "Hello World!"
+  },
+  "Theme Switcher": {
+    "switch_theme": "Switch Theme",
+    "set_light": "Set Light Theme",
+    "set_dark": "Set Dark Theme"
+  },
+  "Locale Switcher": {
+    "en": "English",
+    "ru": "Russian"
+  }
+}

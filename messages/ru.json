@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "hello_world": "Привет мир!"
+  },
+  "Theme Switcher": {
+    "switch_theme": "Изменить тему",
+    "set_light": "Установить светлую тему",
+    "set_dark": "Установить темную тему"
+  },
+  "Locale Switcher": {
+    "en": "Английский",
+    "ru": "Русский"
+  }
+}
