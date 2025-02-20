@@ -26,7 +26,6 @@
     "eslint-config-prettier": "*",
     "eslint-plugin-boundaries": "*",
     "eslint-plugin-check-file": "*",
-    "patch-package": "*",
     "postcss": "*",
     "prettier": "*",
     "prettier-plugin-svelte": "*",
