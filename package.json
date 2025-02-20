@@ -17,6 +17,7 @@
     "react-dom": "^19"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "*",
     "@trivago/prettier-plugin-sort-imports": "*",
     "@types/node": "*",
     "@types/react": "*",
