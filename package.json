@@ -33,6 +33,6 @@
     "prettier-plugin-tailwindcss": "*",
     "tailwindcss": "*",
     "typescript": "*",
-    "typescript-eslint": "^8"
+    "typescript-eslint": "*"
   }
 }
