@@ -32,6 +32,7 @@
     "prettier-plugin-svelte": "*",
     "prettier-plugin-tailwindcss": "*",
     "tailwindcss": "*",
-    "typescript": "*"
+    "typescript": "*",
+    "typescript-eslint": "^8"
   }
 }
