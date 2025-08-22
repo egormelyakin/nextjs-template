@@ -3,10 +3,6 @@ import createNextIntlPlugin from "next-intl/plugin";
 
 const withNextIntl = createNextIntlPlugin("./src/config/intl-request.ts");
 
-const nextConfig: NextConfig = {
-  experimental: {
-    typedRoutes: true,
-  },
-};
+const nextConfig: NextConfig = {};
 
 export default withNextIntl(nextConfig);
